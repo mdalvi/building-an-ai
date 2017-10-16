@@ -16,7 +16,8 @@ The repository contains lecture notes and self-coded solutions to various assign
 - [A Neural Network in 13 lines of Python](http://iamtrask.github.io/2015/07/27/python-network-part2/) - Andrew Trask, 2015
 - [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html) - Michael Nielsen, 2015
 - [Demystifying Deep Reinforcement Learning](http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/) - Tambet Matiisen, 2015
-- [Simple Reinforcement Learning with Tensorflow (Part 4)](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df) - Arthur Juliani, 2016
+- [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf) - Tom Schaul et al., Google DeepMind, 2016
+- [Adaptive ε-greedy Exploration in Reinforcement Learning Based on Value Differences](http://tokic.com/www/tokicm/publikationen/papers/AdaptiveEpsilonGreedyExploration.pdf) - Michel Tokic, 2010
 
 ## Code References
 - [Q-Learning Visualization](http://ai.berkeley.edu/home.html) - ai.berkeley.edu
