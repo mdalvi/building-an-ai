@@ -18,6 +18,8 @@ The repository contains lecture notes and self-coded solutions to various assign
 - [Demystifying Deep Reinforcement Learning](http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/) - Tambet Matiisen, 2015
 - [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf) - Tom Schaul et al., Google DeepMind, 2016
 - [Adaptive ε-greedy Exploration in Reinforcement Learning Based on Value Differences](http://tokic.com/www/tokicm/publikationen/papers/AdaptiveEpsilonGreedyExploration.pdf) - Michel Tokic, 2010
+- [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/books/reinforcement-learning) - Richard S. Sutton and Andrew G. Barto, 1998
+- [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf) - Volodymyr Mnih et al., 2016
 
 ## Code References
 - [Q-Learning Visualization](http://ai.berkeley.edu/home.html) - ai.berkeley.edu
