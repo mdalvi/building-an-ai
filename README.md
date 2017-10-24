@@ -20,6 +20,9 @@ The repository contains lecture notes and self-coded solutions to various assign
 - [Adaptive ε-greedy Exploration in Reinforcement Learning Based on Value Differences](http://tokic.com/www/tokicm/publikationen/papers/AdaptiveEpsilonGreedyExploration.pdf) - Michel Tokic, 2010
 - [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/books/reinforcement-learning) - Richard S. Sutton and Andrew G. Barto, 1998
 - [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf) - Volodymyr Mnih et al., 2016
+- [Let’s Make An A3c: Implementation](https://jaromiru.com/2017/03/26/lets-make-an-a3c-implementation/) - Jaromír Janisch, 2017
+- [High-dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/pdf/1506.02438.pdf) - John Schulman et al., 2016
+- [Artificial Intelligence A-Z Handbook – Learn How to Build An A.I](https://www.superdatascience.com/wp-content/uploads/2017/05/AI_AZ_Handbook_Kickstarter.pdf) - Hadelin de Ponteves and Kirill Eremenko
 
 ## Code References
 - [Q-Learning Visualization](http://ai.berkeley.edu/home.html) - ai.berkeley.edu
